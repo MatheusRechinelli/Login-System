@@ -95,3 +95,19 @@
     font-weight: 300;
     font-size: 20px;
 }
+
+.Git
+{
+    color: #ffff;
+    font-weight: 250;
+    font-size: 18px;
+    margin-right: 5px;
+}
+
+.Linked
+{
+    color: #ffff;
+    font-weight: 250;
+    font-size: 18px;
+    margin-left: 5px; 
+}
