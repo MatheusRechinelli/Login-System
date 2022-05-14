@@ -32,3 +32,66 @@
     font-size: 50px;
 }
 
+.Inputs-content
+{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+
+    width: 500px;
+}
+
+.Inputs 
+{
+    height: 40px;
+    padding-left: 16px ;
+
+    color: rgb(0, 98, 163);
+    
+    border: 0;
+    border-radius: 4px;
+}
+
+.Button
+{
+    height: 40px;
+    margin-top: 10px;
+
+    color: #ffff;
+    font-size: 20px;
+
+    background-color: #515692;
+    border-radius: 4px;
+    border: 0;
+
+    cursor: pointer;
+}
+
+.Footer-content
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.Creater
+{
+    color: #ffff;
+}
+
+.Socials-links
+{
+    display: flex;
+    justify-content: center;
+
+    color: #ffff;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.Creater-name
+{
+    color: #ffff;
+    font-weight: 300;
+    font-size: 20px;
+}
