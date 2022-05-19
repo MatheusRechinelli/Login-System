@@ -98,16 +98,20 @@
 
 .Git
 {
+    outline: none;
     color: #ffff;
     font-weight: 250;
     font-size: 18px;
     margin-right: 5px;
+    cursor: pointer;
 }
 
 .Linked
 {
+    outline: none;
     color: #ffff;
     font-weight: 250;
     font-size: 18px;
     margin-left: 5px; 
+    cursor: pointer;
 }
